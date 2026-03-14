@@ -81,7 +81,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Chernobyl25&theme=purple&hide_border=true&area=true" alt="GitHub Graph" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ0dzBud3BlYTFxaDF5bzgxaGZiNW5ieGpwdXlta3htcmdvajIzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zrdf0cXcJvtBMi189v/giphy.gif" alt="GitHub Animation" width="200" />
 </p>
 
 <p align="center">
