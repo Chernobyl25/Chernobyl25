@@ -87,6 +87,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chernobyl25&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=midnight-purple" alt="GitHub Stars" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chernobyl25&langs_count=8&theme=midnight-purple&layout=compact" alt="Top Languages" />
 </p>
 
